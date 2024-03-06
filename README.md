@@ -1,10 +1,10 @@
-Hi 👋 My name is Naufal
-=======================
+![](https://github.com/nopal-fz/Nopal-Fz/blob/main/Header-image.png)
+# Naufal Faiz
+### Machine Learning Engineer Enthusiast | Data Science Enthusiast
 
-Junior Data Scientist And ML Engineer
--------------------------------------
+Welcome to my GitHub profile! I am Naufal faiz, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I continue to develop my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
 
-Hello, I'm Naufal Faiz. I'm passionate about the fields of Data Science and Machine Learning Engineering. Throughout my coding journey, I've explored various aspects of data to create innovative solutions. I enjoy bringing creative ideas to life in my coding projects and have successfully crafted several interesting ones. In my ongoing self-development journey, I strive to continually enhance my skills in the data world and am committed to making meaningful contributions to technology advancement. Explore more about my work on my GitHub account. I'm always open to collaboration and discussion, so feel free to reach out. Thank you! 🚀
+
 
 * 🌍  I'm based in Sidoarjo, Indonesia
 * ✉️  You can contact me at [naufalfaiznugraha2005@gmail.com](mailto:naufalfaiznugraha2005@gmail.com)
