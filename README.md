@@ -1,25 +1,51 @@
 ![](https://github.com/nopal-fz/Nopal-Fz/blob/main/Header-image.png)
-# Naufal Faiz
-### Machine Learning Engineer Enthusiast | Data Science Enthusiast
 
-Welcome to my GitHub profile! I am Naufal faiz, a Data Science enthusiast with a passion for leveraging data to drive insights and solve complex problems. I continue to develop my skills and knowledge in the field of data science, and I am excited to share my journey with you through my project portfolio.
+<h3 align="center">A passionate data scientist from Indonesia</h3>
 
+<br/>
 
+<div align="center">
+ 
+ 🌍  I'm based in **Sidoarjo, Indonesia**
+ 
+ 🧠 I’m currently learning **Machine Learning, Deep Learning, Mysql, PostgreSql**
 
-* 🌍  I'm based in Sidoarjo, Indonesia
-* ✉️  You can contact me at [naufalfaiznugraha2005@gmail.com](mailto:naufalfaiznugraha2005@gmail.com)
-* 🧠  I'm learning Machine Learning Advanced And Road To Deep Learning
-* 🤝  I'm open to collaborating on Interesting Project About Machine Learning
-* ⚡  I'm Alwas Dream To Work On Microsoft / Google Company... Please Dont Tell Anyone
+ 💬 Ask me about **Machine Learning, Python, Mysql... or anything [here](https://github.com/Nopal-Fz/Nopal-Fz/issues)**
 
-### Skills
+ ⚡ I'm Alwas Dream To Work On **Microsoft / Google Company**... Please Dont Tell Anyone
 
+ 🤝 I'm open to **collaborating** on Interesting Project About Machine Learning
 
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
+ </div>
 
+<div align="center"> 
+  <a href="mailto:naufalfaiznugraha2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://linkedin.com/in/naufal-faiz-nugraha-867534292" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://instagram.com/in/nopalf__" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank" />
+  </a>
+</div>
 
-### Socials
+ <hr/>
+ 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=anaconda,azure,vscode,github,figma,mysql,py,sqlite,postgres,tensorflow,mongodb,sklearn&perline=6" /><br>
+</div>
 
-<p align="left"> <a href="https://www.github.com/nopal-fz" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/nopalf__" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a></p>
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Nopal-Fz/Nopal-Fz/output/github-contribution-grid-snake.svg" />
+  <br/><br/><br/>
+</div>
+
+<hr/>
