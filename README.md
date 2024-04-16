@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=anaconda,azure,vscode,github,figma,mysql,py,sqlite,postgres,tensorflow,mongodb,sklearn&perline=6" /><br>
+    <img src="https://skillicons.dev/icons?i=azure,vscode,github,mysql,py,postgres,tensorflow,sklearn&perline=4" /><br>
 </div>
 
 <hr/>
@@ -43,9 +43,20 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nopal-fz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nopal-fz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=Nopal-Fz&theme=dracula&show_icons=true&hide_border=false&count_private=true">
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nopal-Fz&theme=dracula&hide_border=false">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nopal-Fz&theme=dracula&show_icons=true&hide_border=false&layout=compact">
 </div>
+
+<br/>
+<hr/>
+
+<h2 align="center"> 📌 Portfolio Website 📌 </h2>
+
+[![][black-shield]][black]
+
+[black]: https://nopal-fz.github.io/Website-Personal
+[black-shield]: https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge
 
 <br/>
 <hr/>
