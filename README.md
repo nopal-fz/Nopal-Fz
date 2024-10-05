@@ -12,7 +12,7 @@
 
  💬 Ask me about **Machine Learning, Python, Mysql... or anything [here](https://github.com/Nopal-Fz/Nopal-Fz/issues)**
 
- ⚡ I'm Alwas Dream To Work On **Microsoft / Google Company**... Please Dont Tell Anyone
+ ⚡ I'm Always Dream To Work On **Microsoft / Google Company**... Please Dont Tell Anyone
 
  🤝 I'm open to **collaborating** on Interesting Project About Machine Learning
 
