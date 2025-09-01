@@ -35,7 +35,7 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=azure,vscode,github,mysql,py,postgres,tensorflow,sklearn&perline=4" /><br>
+    <img src="https://skillicons.dev/icons?i=pr,discord,docker,cpp,vscode,github,py,mysql,postgres,tensorflow,pytorch,sklearn,fastapi,flask,notion,opencv,pkl,sqlite,gcp,regex&perline=10" /><br>
 </div>
 
 <hr/>
