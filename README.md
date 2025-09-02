@@ -54,7 +54,7 @@
 <h2 align="center"> 📌 Portfolio Website 📌 </h2>
 
 <div align="center"> 
-  <a href="https://nopal-fz.github.io/portofolio/">
+  <a href="https://nopal-fz.github.io/Website-Personal/">
     <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge" />
   </a>
 </div>
