@@ -53,10 +53,13 @@
 
 <h2 align="center"> 📌 Portfolio Website 📌 </h2>
 
-[![][black-shield]][black]
+<div align="center"> 
+  <a href="https://nopal-fz.github.io/portofolio/">
+    <img src="https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge" />
+  </a>
+</div>
 
-[black]: https://nopal-fz.github.io/Website-Personal
-[black-shield]: https://img.shields.io/badge/PORTFOLIO-WEBSITE-blue?style=for-the-badge
+<hr/>
 
 <br/>
 <hr/>
